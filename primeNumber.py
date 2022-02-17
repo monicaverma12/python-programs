@@ -1,3 +1,4 @@
+
 def is_prime(number):
     if number <= 1:
         print("The number is not prime")
@@ -25,6 +26,11 @@ while True:
     # Check if user input is valid
     if goAgain != "n" and goAgain != "N" and goAgain != "y" and goAgain != "Y":
         print("Invalid input")
+
+
+
+
+
 
 
 
